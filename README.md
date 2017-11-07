@@ -10,7 +10,7 @@ La réplica será en 2 partes:
 ---
 #### **15 de Diciembre**
  - Musical improvisation with Genetic Algorithms - __Francisco Vilchez__
- (Confirmado :tada::musical_note::tada).
+ (Confirmado :tada::musical_note::tada:).
 
 
 ##  Disponibles a Réplica
